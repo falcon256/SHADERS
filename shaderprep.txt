@@ -1,0 +1,16 @@
+Firstly, grab HLSL tools for your IDE:
+Visual Studio:
+https://marketplace.visualstudio.com/items?itemName=TimGJones.HLSLToolsforVisualStudio
+or Visual Studio Code:
+https://marketplace.visualstudio.com/items?itemName=TimGJones.hlsltools
+
+
+
+
+Follow on reading:
+Check out Shadertoy:
+shadertoy.com
+
+Some useful stuff:
+fft: https://www.shadertoy.com/view/lsVXWt
+Isosurface generation on the gpu: https://github.com/hjwdzh/Fluid3D/blob/master/MarchingCubes.hlsl
